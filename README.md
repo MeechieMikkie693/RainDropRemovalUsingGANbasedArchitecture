@@ -1,5 +1,8 @@
-## Rain Drop Removal Using GAN based Architecture
+# Rain Drop Removal Using GAN based Architecture
 Rain drop removal from a single image using a novel GAN based architecture
+
+## NOTE! 
+Our implementation paper (in word and pdf format along with the ppt presentation is given under the RainDPRemovalGAN folder)
 
 ### Abstract
 
