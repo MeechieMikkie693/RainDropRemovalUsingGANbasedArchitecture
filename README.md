@@ -47,6 +47,7 @@ For quantitative evaluation where the alignment of image pairs is good. A subset
 ## Video Walkthrough and Presentaion
 A video Detailing the architecture of the model can be found at the following link:
 https://www.youtube.com/watch?v=OYrlNQ_sAPg
+
 And the presentaion used in it can be accessed via the folling link:
 https://docs.google.com/presentation/d/1kyOMFHtzn9u1l3LriJDXM1K8xn6yKfnVPigstXwZNig/edit?usp=sharing
 
