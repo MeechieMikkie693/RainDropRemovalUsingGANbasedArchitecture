@@ -1,4 +1,4 @@
-## RainDropRemovalUsingGANbasedArchitecture
+## Rain Drop Removal Using GAN based Architecture
 Rain drop removal from a single image using a novel GAN based architecture
 
 ### Abstract
